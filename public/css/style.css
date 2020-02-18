@@ -1,0 +1,169 @@
+/*Public START*/
+
+.color-white
+{
+	color: white !important;
+}
+
+.nav-link p 
+{
+	padding-left: 10px;
+}
+
+.my-button {
+	min-width: 200px;
+}
+
+.margin-top-bottom
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+/*Public END*/
+
+/*Main START*/
+
+
+
+/*Main END*/
+
+/*Admin Login START*/
+
+#main-login-admin
+{
+	margin-top: 5vh;
+	width: 100%; 
+}
+
+#header-login-admin
+{
+	margin-bottom: 2vh;
+    margin-top: 2vh;
+}
+
+#form-div-login-admin
+{
+	background-color: #007bff;
+	padding: 0;
+}
+
+#form-div-login-admin ul li a
+{
+	border-radius: 0;
+	background-color: #EBEBEB;
+	color: black;
+}
+
+#form-div-login-admin ul li a.active
+{
+	border-radius: 0;
+	background-color: #007bff;
+	color: white;
+}
+
+#form-login-admin
+{
+	padding: 20px 15%;
+	font-size: 20px;
+}
+
+#form-login-admin div label
+{
+	color: white;
+}
+
+#form-login-admin div input
+{
+	border-radius: 50px;
+	color: black;
+	font-size: 18px;
+}
+
+#form-login-admin button
+{
+	background-color: #EBEBEB;
+	border-radius: 50px;
+	min-width: 140px;
+	margin-top: 20px;
+}
+
+#alert-alert, #alert-info
+{
+	margin-top: 30px;
+	margin-bottom: -20px;
+}
+
+/*Admin Login END*/
+
+/*User Login START*/
+
+#login-logo-polban
+{
+	width: 25vw;
+	height: 100px;
+}
+
+#main-login-user
+{
+	margin-top: 5vh;
+	width: 100%;
+}
+
+#header-login-user
+{
+	margin-bottom: 2vh;
+	margin-top: 2vh;
+}
+
+#form-div-login-user
+{
+	background-color: #007bff;
+	padding: 0; 
+}
+
+#form-div-login-user ul li a
+{
+	border-radius: 0;
+	background-color: #EBEBEB;
+	color: black;
+}
+
+#form-div-login-user ul li a.active
+{
+	border-radius: 0;
+	background-color: #007bff;
+	color: white;
+}
+
+.form-login-user
+{
+	padding: 10px 15%;
+	font-size: 20px;
+}
+
+.form-login-user div label
+{
+	color: white;
+}
+
+.form-login-user div input
+{
+	border-radius: 50px;
+	color: black;
+	font-size: 18px;
+}
+
+.form-login-user button
+{
+	background-color: #EBEBEB;
+	border-radius: 50px;
+	min-width: 140px;
+	margin-top: 20px;
+}
+
+#title-login p {
+	font-size: 2rem;
+}
+
+/*User Login END*/
